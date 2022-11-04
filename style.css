@@ -21,7 +21,7 @@ justify-content: baseline;
     display: flex;
     flex-direction:row;
     align-items: center;
-    justify-content: space-between;
+    justify-content:space-around;
     margin:10px;
 }
 .boxes{
@@ -84,9 +84,9 @@ img{
     flex-direction: initial;
     /* align-items: center; */
     font-size: 20px;
-    font-family: sans-serif;
+    font-family:monospace;
     
-    
+
  }
  .imge{
     border-radius: 1px;
